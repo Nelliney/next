@@ -217,14 +217,15 @@ aside {
   filter: drop-shadow(50px 50px 50px black)
 }
 
-a:hover{
+a:hover {
   color: #5C6D7F;
-  } 
+}
 
 a {
   color: #0D1217;
   transition-duration: 0.2s;
 }
+
 /* ----------------@media-------------------------------------------------------- */
 
 @media screen and (min-width: 600px) {
